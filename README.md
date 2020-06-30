@@ -1,4 +1,4 @@
-# Loop Scroll Rect
+# Loop Scroll Rect 自己实现的ScrollRect操作，代码量巨大。不如对原生的ScrollRect进行组合来得简单
 
 ## v1.04
 
